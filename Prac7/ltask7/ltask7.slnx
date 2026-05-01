@@ -1,0 +1,19 @@
+<Solution>
+  <Project Path="task1/task1.csproj" />
+  <Project Path="task10/task10.csproj" />
+  <Project Path="task11/task11.csproj" />
+  <Project Path="task12/task12.csproj" />
+  <Project Path="task13/task13.csproj" />
+  <Project Path="task14/task14.csproj" />
+  <Project Path="task15/task15.csproj" />
+  <Project Path="task16/task16.csproj" />
+  <Project Path="task17/task17.csproj" />
+  <Project Path="task2/task2.csproj" />
+  <Project Path="task3/task3.csproj" />
+  <Project Path="task4/task4.csproj" />
+  <Project Path="task5/task5.csproj" />
+  <Project Path="task6/task6.csproj" />
+  <Project Path="task7/task7.csproj" />
+  <Project Path="task8/task8.csproj" />
+  <Project Path="task9/task9.csproj" />
+</Solution>
