@@ -23,6 +23,7 @@ namespace Pract2_Task26
             Console.WriteLine(expr1); 
             
             Console.WriteLine("Варианты: подобрать скобки, чтобы получить нужный результат.");
+            
         }
     }
 }
